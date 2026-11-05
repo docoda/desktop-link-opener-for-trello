@@ -6,7 +6,7 @@ Firefox extension that opens Trello board, card and workspace links in the **Tre
 
 - Intercepts top-level navigations to `trello.com/b/…`, `/c/…` and `/w/…`
 - Hands the link to the desktop app via Trello's URL scheme (`https://trello.com/c/…` → `trello://trello.com/c/…`)
-- Closes the leftover tab (or goes back to the previous page)
+- Closes the leftover tab (or goes back to the previous page) once you return to Firefox
 - Does not interfere while you use Trello in the browser
 - Shows an "open in browser instead" link for exceptions
 - Toolbar button toggles the redirect on/off
@@ -17,7 +17,7 @@ Available in English and German (follows your Firefox language).
 
 ## Requirements
 
-- Firefox 140+ (Firefox for Android 142+)
+- Firefox 140+ on Windows, macOS or Linux
 - Trello desktop app installed. On the first redirect, Firefox asks which app should handle `trello://` links – choose Trello and tick "Always".
 
 ## Development

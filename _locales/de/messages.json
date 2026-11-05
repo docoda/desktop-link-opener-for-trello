@@ -22,5 +22,8 @@
   },
   "redirectOpenInBrowser": {
     "message": "Stattdessen im Browser öffnen"
+  },
+  "redirectNotOpened": {
+    "message": "Nichts passiert? Prüfe, ob die Trello Desktop App installiert ist und trello://-Links öffnen darf."
   }
 }
