@@ -5,6 +5,7 @@
 - The leftover tab now closes only after you return to Firefox, so Firefox's "choose an application" prompt is no longer dismissed too early
 - Shows a hint if the Trello desktop app doesn't respond
 - Removed the unneeded "tabs" permission
+- Desktop only: dropped Firefox for Android from the manifest
 
 ## 1.0.3
 
