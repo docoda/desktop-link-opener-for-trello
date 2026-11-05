@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "Desktop Link Opener for Trello"
+  },
+  "extensionDescription": {
+    "message": "Opens Trello board and card links in the Trello desktop app instead of the browser."
+  },
+  "toggleTitleOn": {
+    "message": "Desktop Link Opener for Trello: ON (click to turn off)"
+  },
+  "toggleTitleOff": {
+    "message": "Desktop Link Opener for Trello: OFF (click to turn on)"
+  },
+  "badgeOff": {
+    "message": "OFF"
+  },
+  "redirectTitle": {
+    "message": "Opening in Trello…"
+  },
+  "redirectOpening": {
+    "message": "Opening in the Trello desktop app…"
+  },
+  "redirectOpenInBrowser": {
+    "message": "Open in browser instead"
+  }
+}
