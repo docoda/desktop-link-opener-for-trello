@@ -27,7 +27,7 @@ Load the extension temporarily via `about:debugging` → "This Firefox" → "Loa
 Build a package for addons.mozilla.org:
 
 ```sh
-zip -r -FS desktop-link-opener-for-trello.xpi manifest.json background.js redirect.html redirect.js icon.svg _locales
+./build.sh
 ```
 
 ## Support
